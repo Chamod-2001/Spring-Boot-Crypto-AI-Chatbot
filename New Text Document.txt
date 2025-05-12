@@ -1,0 +1,21 @@
+Gemini api : AIzaSyB3-q1JUyQtc2eR04kWJoxHQZB40dS9YQY
+
+	link : https://aistudio.google.com/apikey
+
+
+Coin gecko : CG-5i7H1LVqTxTG6q5dL1A6fNME
+	
+	coin data by ID : https://docs.coingecko.com/v3.0.1/reference/coins-id
+	Api Token : https://api.coingecko.com/api/v3/coins/bitcoin
+
+SprintBoot 
+	
+	initializr : https://start.spring.io/
+	class : https://spring.io/guides/gs/accessing-data-mysql
+	
+Web : http://localhost:5454/
+
+Video : https://www.youtube.com/watch?v=3NDNCKjUA1Y&list=PL7Oro2kvkIzI9PsCoGcSzFCMHN11XBKEc&index=5&ab_channel=CodeWithZosh
+
+ChatGpt :https://chatgpt.com/c/6817249a-27ac-8013-9229-7bd095d1d02a
+
